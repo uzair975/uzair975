@@ -28,5 +28,5 @@ Final Year Project: Ai powered Virtual Assistant with Gestures and Voice Control
 
 ## 📫 Connect With Me
 
-[![LinkedIn](www.linkedin.com/in/uzair-pasha-033b87364)
-[![Email](uzairpasha915@gmail.com)
+[![LinkedIn](www.linkedin.com/in/uzair-pasha-033b87364)]
+[![Email](uzairpasha915@gmail.com)]
